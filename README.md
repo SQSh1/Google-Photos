@@ -17,12 +17,12 @@ Works without root access for Google Photos itself — just system-level modific
 
 ## ✨ Features
 
-- Unlock unlimited storage in **Google Photos**
-- Mimics official Pixel devices via system configuration
-- Includes up-to-date `sysconfig` XML files for:
-  - Pixel 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023...
-- Lightweight module with Zygisk native hook (optional)
-- Designed for **Magisk 25.2+** and modern Android versions
+- Unlock **unlimited** original-quality Google Photos backup
+- Spoof as Pixel 2016–2019 models
+- Zygisk-based for best compatibility
+- No extra code, only essential files
+- Clean, minimal, and efficient
+
 
 ## 📁 Module Structure
 <pre>
