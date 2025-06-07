@@ -1,6 +1,6 @@
-id=PixelifyPhotos
-name=Google Photos
-version=1.1-stable
-versionCode=002
+id=pixelifyphotos
+name=PixelifyPhotos
+version=1.0
+versionCode=1
 author=SQ
-description=Unlimited Google Photos Backup
+description=Unlock unlimited Google Photos backup using Pixel-exclusive configs.
