@@ -71,8 +71,3 @@ PixelifyPhotos/
 ## 📄 License
 
 Licensed under the [MIT License](./LICENSE)
-
-این پروژه
----
-
-> این پروژه به‌هیچ‌عنوان به Google یا Google Photos وابسته یا مرتبط نیست.
