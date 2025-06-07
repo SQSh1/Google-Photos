@@ -21,26 +21,33 @@ Works without root access for Google Photos itself — just system-level modific
 - Designed for **Magisk 25.2+** and modern Android versions
 
 ## 📁 Module Structure
-
-
-## 📝 مجوزPixelifyPhotos/
+<pre>
+PixelifyPhotos/
 ├── module.prop
 ├── customize.sh
 ├── zygisk/
-│ ├── arm64-v8a.so
-│ └── armeabi-v7a.so (optional)
+│   ├── arm64-v8a.so
+│   └── armeabi-v7a.so
 ├── system/
-│ ├── etc/sysconfig/
-│ │ ├── pixel_2017_exclusive.xml
-│ │ ├── pixel_2018_exclusive.xml
-│ │ └── ...
-│ └── product/etc/sysconfig/
-│ ├── pixel_2016_exclusive.xml
-│ ├── pixel_2017_exclusive.xml
-│ └── ...
-├── META-INF/com/google/android/
-│ ├── update-binary
-│ └── updater-script
+│   ├── etc/
+│   │   └── sysconfig/
+│   │       ├── pixel_2017_exclusive.xml
+│   │       ├── pixel_2018_exclusive.xml
+│   │       └── pixel_2019_exclusive.xml
+│   └── product/
+│       └── etc/
+│           └── sysconfig/
+│               ├── pixel_2016_exclusive.xml
+│               ├── pixel_2017_exclusive.xml
+│               └── pixel_2018_exclusive.xml
+└── META-INF/
+    └── com/
+        └── google/
+            └── android/
+                ├── update-binary
+                └── updater-script
+</pre>
+
 
 
 
@@ -64,8 +71,7 @@ GitHub: [`SQSh1/PixelifyPhotos`](https://github.com/SQSh1/PixelifyPhotos)
 
 Licensed under the [MIT License](./LICENSE)
 
-این پروژه تحت مجوز **MIT** منتشر شده است. برای اطلاعات بیشتر، [LICENSE](LICENSE) را ببینید.
-
+این پروژه
 ---
 
 > این پروژه به‌هیچ‌عنوان به Google یا Google Photos وابسته یا مرتبط نیست.
