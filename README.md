@@ -25,6 +25,7 @@ Works without root access for Google Photos itself — just system-level modific
 
 
 ## 📁 Module Structure
+
 <pre>
 PixelifyPhotos/
 ├── module.prop
@@ -51,8 +52,6 @@ PixelifyPhotos/
                 ├── update-binary
                 └── updater-script
 </pre>
-
-
 
 
 ## 🛠 Installation
