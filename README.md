@@ -54,21 +54,19 @@ PixelifyPhotos/
 </pre>
 
 
-## 🛠 Installation
+## 📦 Installation
 
-1. Download the latest `.zip` from [Releases](https://github.com/SQSh1/PixelifyPhotos/releases)
-2. Flash using **Magisk Manager**
-3. Reboot and check **Google Photos** > **Backup settings**
+1. Make sure you have **Magisk** installed with **Zygisk** enabled.
+2. Download the latest release of **PixelifyPhotos** from the [Releases](https://github.com/SQSh1/PixelifyPhotos/releases) tab.
+3. Flash the module via Magisk:
+   - Open Magisk > Modules > Install from storage
+   - Select the `.zip` file
+4. Reboot your device.
+5. Open Google Photos and enjoy **unlimited backup** as a Pixel!
 
-## ⚙️ Requirements
+> ✅ Works best with Google Photos preinstalled and signed-in.
 
-- Magisk 25.2+
-- Android 8.0+ recommended
-- Zygisk enabled (for native hook support)
 
-## 🔗 Repository
-
-GitHub: [`SQSh1/PixelifyPhotos`](https://github.com/SQSh1/PixelifyPhotos)
 
 ## 📄 License
 
