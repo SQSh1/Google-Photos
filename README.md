@@ -66,6 +66,12 @@ PixelifyPhotos/
 
 > ✅ Works best with Google Photos preinstalled and signed-in.
 
+## 🙏 Credits & Acknowledgements
+
+- Based on community work around **Pixel feature spoofing**
+- Inspired by modules like Pixelify & PixelPropsUtils
+- Thanks to developers and testers in the Android modding community
+- 
 
 
 ## 📄 License
