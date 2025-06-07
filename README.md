@@ -1,4 +1,4 @@
-# 📸 PixelifyPhotos
+## Google Photos 
 
 **Magisk/Zygisk Module** — Enable **Unlimited Google Photos Backup** by spoofing your device as a Pixel.
 
