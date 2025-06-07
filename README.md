@@ -10,7 +10,7 @@
 - **𝚂𝚀 𝚂𝚑𝚊𝚋𝚊𝚗𝚒**  
   [GitHub](https://github.com/SQSh1)
 
-# 📸 PixelifyPhotos - Unlimited Google Photos Backup
+#  PixelifyPhotos - Unlimited Google Photos Backup
 
 A simple Magisk/Zygisk module that unlocks **unlimited Google Photos backup** by spoofing your device as a Pixel.  
 Works without root access for Google Photos itself — just system-level modifications.
