@@ -1,0 +1,5 @@
+#!/sbin/sh
+# Dummy update-binary for Magisk modules
+
+echo "This is a Magisk module. Please install it via Magisk Manager."
+exit 1
