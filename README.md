@@ -4,6 +4,8 @@ Magisk Module - Unlock unlimited Google Photos backup with Pixel-exclusive featu
 
 🔗 GitHub Repository: [https://github.com/SQSh1/PixelifyPhotos](https://github.com/SQSh1/PixelifyPhotos)
 
+🔗 [دانلود آخرین نسخه](https://github.com/SQSh1/PixelifyPhotos/releases/latest/download/PixelifyPhotos.zip)
+
 ---
 
 ## ✨ Features
