@@ -1,6 +1,6 @@
-id=PixelifyPhotos
-name=Google Photos
+id=pixelifyphotos
+name=Google Photos 
 version=1.0
-versionCode=002
-author=SQSh
-description=Lightweight and compatible module to unlock unlimited Google Photos backup by spoofing Pixel signature.
+versionCode=1
+author=SQ.Shabani 🇮🇷
+description=Unlimited Google Photos backup using Pixel-exclusive configs.
