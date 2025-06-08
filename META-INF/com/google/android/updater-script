@@ -1,2 +1,6 @@
-ui_print("PixelifyPhotos Magisk Module")
-ui_print("✓ No Aroma, No Setup — Pure Pixel Photos Experience")
+ui_print(" ");
+ui_print("******************************************");
+ui_print("   PixelifyPhotos Magisk Module");
+ui_print("   Please install using Magisk Manager");
+ui_print("******************************************");
+ui_print(" ");
