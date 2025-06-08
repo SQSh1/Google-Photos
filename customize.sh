@@ -1,4 +1,7 @@
-#!/system/bin/sh
-# PixelifyPhotos - Minimal config
-# No user prompts or config, just clean install
-ui_print "✓ Installing PixelifyPhotos"
+#!/bin/sh
+
+ui_print "****************************************"
+ui_print "     Unlimited Google Photos Module     "
+ui_print "           by SQSh1                     "
+ui_print "****************************************"
+ui_print "  Enabling Pixel-exclusive features..."
